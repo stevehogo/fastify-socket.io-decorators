@@ -1,0 +1,1 @@
+# fastify-socket.io-decorators
